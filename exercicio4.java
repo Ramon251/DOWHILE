@@ -9,7 +9,7 @@ public class exercio4 {
 		int  n = 0;
 		int m = 0;
 		
-		while (n <=3) {
+		while (n <=15) {
 		System.out.println("digite um numero");
 		m = leitor.nextInt(); 
 		n++;
